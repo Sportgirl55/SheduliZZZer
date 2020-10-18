@@ -256,7 +256,7 @@ input[type='submit'] {
   background-color: transparent;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(../img/sidebar-arrow.svg);
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCA0MCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTAuOTM5MzM5IDEwLjkzOTNDMC4zNTM1NTQgMTEuNTI1MSAwLjM1MzU1NCAxMi40NzQ5IDAuOTM5MzM5IDEzLjA2MDdMMTAuNDg1MyAyMi42MDY2QzExLjA3MTEgMjMuMTkyNCAxMi4wMjA4IDIzLjE5MjQgMTIuNjA2NiAyMi42MDY2QzEzLjE5MjQgMjIuMDIwOCAxMy4xOTI0IDIxLjA3MTEgMTIuNjA2NiAyMC40ODUzTDQuMTIxMzIgMTJMMTIuNjA2NiAzLjUxNDcyQzEzLjE5MjQgMi45Mjg5MyAxMy4xOTI0IDEuOTc5MTkgMTIuNjA2NiAxLjM5MzRDMTIuMDIwOCAwLjgwNzYxMSAxMS4wNzExIDAuODA3NjExIDEwLjQ4NTMgMS4zOTM0TDAuOTM5MzM5IDEwLjkzOTNaTTQwIDEwLjVMMiAxMC41VjEzLjVMNDAgMTMuNVYxMC41WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==);
 }
 
 /* sidebar end */
@@ -328,3 +328,4 @@ input[type='submit'] {
 .teacher-name {
   font-size: 1.3em;
 }
+
