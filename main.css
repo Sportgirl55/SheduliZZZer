@@ -350,5 +350,6 @@ input[type='submit'] {
 
 .active {
   display: block;
+  outline: solid red 1px;
 }
 
