@@ -96,13 +96,14 @@ input[type='submit'] {
 }
 
 .container {
-  max-width: 1200px;
+  /* max-width: 1200px; */
   margin: 0 auto;
 }
 
 .wrapper-page {
   display: flex;
   flex: 1;
+  min-height: calc(100vh - 78px);
 }
 
 .wrapper-content {
